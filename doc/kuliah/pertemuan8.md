@@ -1,0 +1,8 @@
+FIREWALL II (NIDS DAN HIPS)
+	The above mentioned firewall is a system or device that authorize computer network traffic that is considered safe for through and prevention terhadapa networks that are considered unsafe. A firewall can be a software (computer program or application) or hardware (special equipment to run a firewall program) device that filters network traffic between networks. Firewall protection is required for computing devices such as computer enabled with Internet connection. Increasing the level of computer network security by providing detailed information on patterns of network traffic. This device is an important and indispensable because it acts as a security gateway between the internal computer network and external computer networks.
+IDS Intrusion Detection System (IDS abbreviated) is a method that can be used to detect suspicious activity in a system or network.
+Types of IDS:
+1. NIDS (Network Intrusion Detection System)
+IDS is placed in a place of this type / strategic point or a point within a network to monitor the traffic that goes and comes from all devices (devices) in the network. Ideally all trafficyang come from outside and within the network to do the scan, but this way can cause bottlenecks that interfere with access speeds across the network.
+2. HIDS (Host intrution Detection System)
+This type of IDS running on the host stand-alone or equipment in a network. A HIDS monitoring the packets originating from inside or from the outside only on one device and then memberiperingatan to the user or the network system administrator will be their suspicious activities are detected by HIDS
